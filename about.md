@@ -1,17 +1,19 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/profile-placeholder.jpg" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Hey there, my name is Sheng Yeong. I am based in Kuala Lumpur, Malaysia. 
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I have tons of ideas, opinions, and questions on food hacks, work productivity, math, science, art and philosophy. I like to talk to true, intelligent and wise people, because there is always a paradigm shift in me on those encounters.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The reason I started this blog is because as I age, I realized I tend to forget important lessons learnt in life. However, for matters that I meticulously and deliberately write down and draw, I will be able to recall easily. So, this blog serves to help me keep a record of my past thoughts. In another way, helping me keep a presence of mind for truths. Helping me be mindful.
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Additionally, there is no point keeping my experience and knowledge to myself. In an age where information is shared freely, I hope this blog is beneficial to you as it is to me. 
+
+If you want to keep in touch, contact me at [Site][site] or [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll).
+
+[site]: https://linkedin.com/in/shengyeong
