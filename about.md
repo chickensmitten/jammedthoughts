@@ -6,14 +6,12 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.jpg" title="Profile Picture" class="profile">
 
-Hey there, my name is Sheng Yeong. I am based in Kuala Lumpur, Malaysia. 
+I know not any original thoughts. Neither will those that which I am about to share here are original. However, they are truths I can hold dear with a clear conscious. I sincerely hope that you will feel the same way too.
 
-I have tons of ideas, opinions, and questions on food hacks, work productivity, math, science, art and philosophy. I like to talk to true, intelligent and wise people, because there is always a paradigm shift in me on those encounters.
+All credit goes to the people whom have touched my life. In ways big or small, conscious or unconscious, for pleasure or for pain.
 
-The reason I started this blog is because as I age, I realized I tend to forget important lessons learnt in life. However, for matters that I meticulously and deliberately write down and draw, I will be able to recall easily. So, this blog serves to help me keep a record of my past thoughts. In another way, helping me keep a presence of mind for truths. Helping me be mindful.
+You have made me a better person.
 
-Additionally, there is no point keeping my experience and knowledge to myself. In an age where information is shared freely, I hope this blog is beneficial to you as it is to me. 
-
-If you want to keep in touch, contact me at [Site][site] or [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll).
+If you want to keep in touch, contact me at [Site][site]
 
 [site]: https://linkedin.com/in/shengyeong
