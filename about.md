@@ -12,6 +12,6 @@ All credit goes to the people whom have touched my life. In ways big or small, c
 
 You have made me a better person.
 
-If you want to keep in touch, contact me at [Site][site]
+To keep in touch, contact me at [LinkedIn][site]
 
 [site]: https://linkedin.com/in/shengyeong
