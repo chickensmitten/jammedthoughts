@@ -1,12 +1,2 @@
----
-title: Jammed Thoughts
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 baseurl: "/jammedthoughts"
 url: "http://chickensmitten.github.io"
