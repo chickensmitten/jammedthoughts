@@ -9,4 +9,4 @@ collections:
     title: Uploads
     output: true
 baseurl: "/jammedthoughts"
-url: "http://chickensmitten.github.io"
+url: http://chickensmitten.github.io
